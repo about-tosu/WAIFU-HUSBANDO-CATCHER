@@ -70,6 +70,14 @@ use Rarity Number accordingly rarity Map
 - Go to [`config.py`](./shivu/config.py)
 - Fill the All variables and Go to heroku. and deploy Your forked Repository
 
+  <summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/tusarpatel/WAIFU-HUSBANDO-CATCHER">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+
 ### Local Deploy/VPS
 - Fill variables in [`config.py`](./shivu/config.py) 
 - Open your VPS terminal (we're using Debian based) and run the following:
