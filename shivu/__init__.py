@@ -1,6 +1,5 @@
 import logging  
 
-from motor.motor_asyncio import AsyncIOMotorClient
 
 logging.basicConfig(
     format="%(asctime)s - %(levelname)s - %(name)s - %(message)s",
