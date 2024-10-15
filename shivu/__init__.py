@@ -25,7 +25,7 @@ CHARA_CHANNEL_ID = "-1002251479334"
 api_id = "24835491"
 api_hash = "04ee66f0079a9b11eefb33a89289899e" 
 
-application = Application.builder().token(TOKEN).build()
+
 Grabberu = Client("Grabber", api_id, api_hash, bot_token=TOKEN)
 client = AsyncIOMotorClient(mongo_url)
 db = client['Character_catcher']
