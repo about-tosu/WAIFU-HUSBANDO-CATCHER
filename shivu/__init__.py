@@ -1,6 +1,6 @@
 import logging  
 import os
- from telegram.ext import Application
+from telegram.ext import Application
 from motor.motor_asyncio import AsyncIOMotorClient
 
 logging.basicConfig(
